@@ -133,8 +133,8 @@
     padding: 0.35rem 0.75rem;
     letter-spacing: 1.6px;
     font-size: 0.75rem;
-    color: rgb(145, 143, 143);
-    background: #fff;
+    color: rgb(255, 255, 255);
+    background: rgb(21, 150, 17);
     border-radius: var(--radius);
     border-color: transparent;
     text-transform: uppercase;
